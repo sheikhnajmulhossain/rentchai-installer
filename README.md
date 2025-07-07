@@ -8,7 +8,7 @@ RentChai is a user-friendly rent management system designed to simplify property
 
 ## Installation
 
-Click [Here](https://github.com/sheikhnajmulhossain/rentchai-installer/raw/main/RentChai-v1.02.zip) to download the latest installer file. 
+Click [Here](https://github.com/sheikhnajmulhossain/rentchai-installer/raw/main/RentChai-v1.04.zip) to download the latest installer file. 
 
 ## Authors
 
